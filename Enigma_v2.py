@@ -162,4 +162,5 @@ def translate(message):
     decoded = "".join(translation)
     return decoded
 
-print(translate("XPYKSSPRXQCZFHBTXOV"))
+
+print(translate("RXHHYMLKNKHGMXWFMLJ"))
